@@ -1,5 +1,5 @@
 #include <Foundation/Foundation.h>
-#include <React/RCTConvert.h>
+#import <React/RCTConvert.h>
 #include <stdexcept>
 #include "PDFPageFactory.h"
 #include "IByteReaderWithPosition.h"

@@ -1,12 +1,6 @@
 
 package com.hopding.pdflib;
 
-import android.content.ActivityNotFoundException;
-import android.content.Intent;
-import android.net.Uri;
-import android.support.v4.content.FileProvider;
-import android.util.Log;
-
 import com.facebook.react.bridge.NoSuchKeyException;
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
